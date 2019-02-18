@@ -391,7 +391,6 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "D:\\Repos\\petstore-web\\pages\\index.js";
 
 
 var MyTest =
@@ -408,13 +407,7 @@ function (_React$Component) {
   Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(MyTest, [{
     key: "render",
     value: function render() {
-      return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 5
-        },
-        __self: this
-      }, "asd");
+      return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", null, "asd");
     }
   }]);
 
@@ -432,7 +425,7 @@ function (_React$Component) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\Repos\petstore-web\pages\index.js */"./pages/index.js");
+module.exports = __webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\pages\index.js */"./pages/index.js");
 
 
 /***/ }),

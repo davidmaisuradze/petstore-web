@@ -1,0 +1,2 @@
+// global
+export const UPDATE_LOADER_AND_ERROR = 'UPDATE_LOADER_AND_ERROR';

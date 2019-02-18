@@ -7280,7 +7280,7 @@ function connect(options) {
       error.name = err.name;
       error.stack = err.stack; // __NEXT_DIST_DIR is provided by webpack
 
-      source_map_support_1.rewriteStacktrace(error, "D:\\Repos\\petstore-web\\.next");
+      source_map_support_1.rewriteStacktrace(error, "C:\\Users\\dmaisuradze\\projects\\petstore-web\\.next");
       return error;
     }
   };
@@ -8384,7 +8384,7 @@ function () {
 
                       case 2:
                         return _context3.abrupt("return", new _promise.default(function (resolve) {
-                          ws = new WebSocket("".concat(wsProtocol, "://").concat(hostname, ":").concat(54030).concat("/"));
+                          ws = new WebSocket("".concat(wsProtocol, "://").concat(hostname, ":").concat(51254).concat("/"));
 
                           ws.onopen = function () {
                             return resolve();
@@ -18253,14 +18253,59 @@ module.exports = function(module) {
 
 /***/ }),
 
-/***/ 0:
-/*!******************************************************!*\
-  !*** multi ./node_modules/next/dist/client/next-dev ***!
-  \******************************************************/
+/***/ "./utils/offline.js":
+/*!**************************!*\
+  !*** ./utils/offline.js ***!
+  \**************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\Repos\petstore-web\node_modules\next\dist\client\next-dev */"./node_modules/next/dist/client/next-dev.js");
+/**
+ * Registers our Service Worker on the site
+ * Need more? check out:
+ * https://github.com/GoogleChrome/sw-precache/blob/master/demo/app/js/service-worker-registration.js
+ */
+if (false) {}
+
+/***/ }),
+
+/***/ 0:
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** multi ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./utils/offline ./node_modules/next/dist/client/next-dev ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+__webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\utils\offline */"./utils/offline.js");
+module.exports = __webpack_require__(/*! C:\Users\dmaisuradze\projects\petstore-web\node_modules\next\dist\client\next-dev */"./node_modules/next/dist/client/next-dev.js");
 
 
 /***/ }),
